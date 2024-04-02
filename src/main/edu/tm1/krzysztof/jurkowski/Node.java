@@ -1,3 +1,5 @@
+package src.main.edu.tm1.krzysztof.jurkowski;
+
 /**
  * Represents a node in a binary search tree.
  */
@@ -11,8 +13,10 @@ public class Node {
 	 * It encapsulates the red, green, and blue components of a color.
 	 * The values for the red, green, and blue components range from 0 to 255.
 	 */
-	public enum Color { RED, BLACK };
-	
+	public enum Color {
+		RED, BLACK
+	};
+
 	public Color color;
 
 	/**

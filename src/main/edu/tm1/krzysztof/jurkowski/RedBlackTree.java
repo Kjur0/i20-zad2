@@ -1,3 +1,5 @@
+package src.main.edu.tm1.krzysztof.jurkowski;
+
 /**
  * This class represents a Red-Black Tree data structure.
  * It supports insertion, deletion, and retrieval operations.
